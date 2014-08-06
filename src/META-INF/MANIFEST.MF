@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ecsjtapia.jar log4j-1.2.12.jar
+Main-Class: by.et.jtapi.tst.JtapiEtTst
+

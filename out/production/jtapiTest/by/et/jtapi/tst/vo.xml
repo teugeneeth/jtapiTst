@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+    <ConfItem>
+        <agentID>25685</agentID>
+        <password>1111</password>
+        <phoneExt>3987</phoneExt>
+    </ConfItem>
+    <ConfItem>
+        <agentID>25686</agentID>
+        <password>1111</password>
+        <phoneExt>3995</phoneExt>
+    </ConfItem>
+</configurations>

@@ -1,0 +1,25 @@
+<HTML>
+<!--
+    ACD Applet
+
+    Parameters:
+        SERVICENAME     Advertised name of the CTI link
+        LOGIN		    NT/Telephony Server user
+        PASSWORD 	    NT user password
+        ACD		        Hunt group administered in non EAS switch
+        AGENT1          Agent in hunt group ACD
+        AGENT2          Agent in hunt group ACD
+-->
+<TITLE>JTAPI ACD</TITLE>
+<BODY>
+<HR>
+<APPLET code=ACD.class width=340 height=169>
+    <param name=SERVICENAME value="AVAYA#CSTASERV#CSTA#MYSERVER">
+    <param name=LOGIN value="user">
+    <param name=PASSWORD value="user1">
+    <param name=ACD value="101">
+    <param name=AGENT1 value="3331">
+    <param name=AGENT2 value="3332">
+</APPLET>
+</BODY>
+</HTML>
