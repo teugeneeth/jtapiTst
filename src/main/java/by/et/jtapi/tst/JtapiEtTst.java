@@ -8,7 +8,7 @@ package by.et.jtapi.tst;
  * To change this template use File | Settings | File Templates.
  */
 
-import com.sun.xml.internal.messaging.saaj.packaging.mime.MessagingException;
+
 import org.apache.log4j.Logger;
 
 import java.text.*;
